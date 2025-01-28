@@ -17,17 +17,12 @@ Here are some screenshots of the project:
 
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
 
 ## Project Features
 
 - Basic arithmetic operations (+, -, *, /)
 - Smooth animations with neon-style borders
 - Responsive design
-
-## Contribute
-
-Feel free to fork the project, contribute, or report any issues on the [GitHub repository](https://github.com/your-username/neon-calculator).
 
 ## License
 
